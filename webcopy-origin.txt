@@ -1,0 +1,256 @@
+Uri: https://avatars.yandex.net/get-music-content/114728/855cff65.p.6467364/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\114728\855cff65.p.6467364\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/118603/d06d3d71.a.5809785-1/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\118603\d06d3d71.a.5809785-1\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/12554677/cc982ab5.a.36387099-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\12554677\cc982ab5.a.36387099-1\150x150
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/149669/f72eab57.a.4480919-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\149669\f72eab57.a.4480919-1\150x150
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/163479/b3e3efc4.a.7019257-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\163479\b3e3efc4.a.7019257-1\150x150
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/193823/d56c850b.a.7102943-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\193823\d56c850b.a.7102943-1\150x150
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/28589/24e096f6.p.41052/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\28589\24e096f6.p.41052\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/34131/5714ac98.p.158511/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\34131\5714ac98.p.158511\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/38044/2fdb491d.a.3771372-1/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\38044\2fdb491d.a.3771372-1\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/4406810/ee2db8e6.a.13906800-1/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\4406810\ee2db8e6.a.13906800-1\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/49876/02589e08.p.161247/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\49876\02589e08.p.161247\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/5579153/cb79d31c.p.15691816/100x100
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\5579153\cb79d31c.p.15691816\100x100
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/6447985/458c45a5.a.22820453-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\6447985\458c45a5.a.22820453-1\150x150
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/95061/412838e2.a.6809356-1/150x150
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\get-music-content\95061\412838e2.a.6809356-1\150x150
+Content Type: image/jpeg
+
+Uri: https://mc.yandex.ru/watch/48990788
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\watch\48990788
+Content Type: image/gif
+
+Uri: https://rus.hitmotop.com/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://rus.hitmotop.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://rus.hitmotop.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://rus.hitmotop.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://rus.hitmotop.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://rus.hitmotop.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://rus.hitmotop.com/song/70948872
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\song\70948872.html
+Content Type: text/html
+
+Uri: https://rus.hitmotop.com/static/hitmo/build/js/scripts1.js?v=7
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\build\js\scripts1.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/hitmo/css/style3.css?v=5
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\css\style3.css
+Content Type: text/css
+
+Uri: https://rus.hitmotop.com/static/hitmo/images/logo_hitmo.svg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\images\logo_hitmo.svg
+Content Type: image/svg+xml
+
+Uri: https://rus.hitmotop.com/static/hitmo/images/next.svg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\images\next.svg
+Content Type: image/svg+xml
+
+Uri: https://rus.hitmotop.com/static/hitmo/images/play.svg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://rus.hitmotop.com/static/hitmo/images/prev.svg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\images\prev.svg
+Content Type: image/svg+xml
+
+Uri: https://rus.hitmotop.com/static/hitmo/src/js/jplayer.playlist.js
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\src\js\jplayer.playlist.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/hitmo/src/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\src\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/hitmo/src/js/jquery.jplayer.min.js
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\src\js\jquery.jplayer.min.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/hitmo/src/js/player.js?v=9
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\hitmo\src\js\player.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/js/pjax.min.js
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\js\pjax.min.js
+Content Type: application/javascript
+
+Uri: https://rus.hitmotop.com/static/js/vendors/pace.min.js
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\js\vendors\pace.min.js
+Content Type: application/javascript
+
+Uri: https://static.hitmcdn.com/collection_images/10420/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10420\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10561/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10561\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10562/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10562\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10567/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10567\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10570/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10570\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10572/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10572\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10573/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10573\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10577/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10577\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/10749/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\10749\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/2720/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\2720\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/731/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\731\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/9553/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\9553\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/9711/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\9711\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/collection_images/9787/s150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\collection_images\9787\s150.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/194/310/2138.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\194\310\2138.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/211/e95/691013.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\211\e95\691013.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/400/d91/574291.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\400\d91\574291.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/433/3bd/488389.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\433\3bd\488389.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/609/769/473180.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\609\769\473180.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/661/e89/488471.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\661\e89\488471.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/810/f7d/693495.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\810\f7d\693495.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/857/574/870923.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\857\574\870923.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/8d8/2e0/654999.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\8d8\2e0\654999.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/9c7/465/595433.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\9c7\465\595433.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/a88/c3d/815918.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\a88\c3d\815918.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/b3e/a22/768574.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\b3e\a22\768574.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/ba9/f37/591315.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\ba9\f37\591315.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/c85/a01/776011.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\c85\a01\776011.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/covers/a/f05/613/837569.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\covers\a\f05\613\837569.jpg
+Content Type: image/jpeg
+
+Uri: https://static.hitmcdn.com/static/images/no-cover-150.jpg
+File Name: C:\Downloaded Web Sites\rus.hitmotop.com\static\images\no-cover-150.jpg
+Content Type: image/jpeg
+
